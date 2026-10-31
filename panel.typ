@@ -1,11 +1,11 @@
-// タイトル長さの見本(英語 短/長・日本語 短/長)。ロゴ入りは panel-logo.typ(手元専用)。
+// タイトル長さの見本(英語 短/長・日本語 短/長)。ロゴ入りの例は手元専用で、公開していない。
 #import "template.typ": *
 #show: setup
 
 #panel(
   number: "01",
   category: "EN SHORT",
-  title: "TITLE",
+  title: "ライントレースカー",
   specs: ("TIME: -- MIN", "PLAYER: -", "DIFFICULTY: -"),
   accent: rgb("#FE430C"),
   abstract-text: [英語・短いタイトル。幅いっぱいに拡大される(上限 150pt)。],

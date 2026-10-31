@@ -1,4 +1,21 @@
 # ロゴ入り版(他人のロゴを含むので公開しない)
 logos/
-panel-logo.typ
-panel-logo.pdf
+raspberyth.typ
+raspberyth.pdf
+
+# 出力 PDF(他人のロゴを含むものがあるので、確認が取れるまで公開しない)
+all.pdf
+*/*.pdf
+
+# 他人のロゴ・顔や商標が写りうる写真・確認待ちの素材
+takada/
+VR/
+raspberyth/figs/
+packet-delivery/
+
+# 他の人が作った展示(ロゴ・素材が本人のもの)。許可が取れるまで公開しない
+raspberyth/
+
+# 手元専用の全展示まとめ
+all-local.typ
+all-local.pdf
